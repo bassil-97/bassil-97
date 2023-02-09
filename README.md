@@ -36,6 +36,20 @@
 
 <br />
 
+## 🕓 Version Control
+
+<img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+
+<br />
+
+## 💼 Work/Jobs
+
+<img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
+
+<br />
+
 ## 💬 Social
 
 <div align="left">
