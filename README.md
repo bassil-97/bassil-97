@@ -2,13 +2,10 @@
 
 ### Experienced Web Developer working in the Computer Software industry. Skilled in Soft Skills, Team Motivation, Computer Literacy, and Creativity Skills. Strong Frontend and Backend experience with a Bachelor and Master degrees focused in Computer and Information Systems from Yarmouk University. 
 
-<hr />
-
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bassil-97&show_icons=true&theme=tokyonight" />
 
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassil-97&layout=compact" />
 
-<hr />
 
 ## 📋 Languages
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
